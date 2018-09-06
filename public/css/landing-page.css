@@ -2,6 +2,8 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+
+
 h1,
 h2,
 h3,
@@ -118,3 +120,8 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
